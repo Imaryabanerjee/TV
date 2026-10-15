@@ -136,12 +136,7 @@ The current application reads M3U/M3U8 playlist data from configured external so
 
 Example:
 
-const PLAYLISTS = [
-  "https://iptv-org.github.io/iptv/index.m3u",
-  "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
-  "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u"
-];
-
+const 
 «⚠️ Playlist availability, stream availability, licensing and redistribution rights are controlled by the respective source providers. Only use streams you are legally permitted to access or redistribute.»
 
 ---
